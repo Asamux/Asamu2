@@ -1,12 +1,11 @@
-## Welcome to GitHub Pages
+## 欢迎来到东龙跆拳道欢迎来到东龙跆拳道
+可以在这里获得更多关于东龙
+你跆拳道的咨询
 
-You can use the [editor on GitHub](https://github.com/Asamux/Asamu2/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+你们都看不到吧哈哈哈哈哈哈哈哈哈
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### rongyu
+迎来到东龙跆拳道欢迎来到东龙跆拳道
 
 ```markdown
 Syntax highlighted code block
